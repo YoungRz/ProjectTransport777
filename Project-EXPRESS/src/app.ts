@@ -16,7 +16,7 @@ if (!process.env.JWT_SECRET) {
 
 const app = express();
 // Izinkan UI dari localhost di port mana pun (3000, 3001, dst)
-app.use(cors({ origin: /^http:\/\/(localhost|127\.0\.0\.1):\d+$/ }));
+app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
