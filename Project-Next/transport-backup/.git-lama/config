@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/YoungRz/Project_Transport_Sharkz.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "feature-ui"]
+	remote = origin
+	vscode-merge-base = origin/feature-ui
+	merge = refs/heads/feature-ui

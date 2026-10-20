@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 c891f5f80f8c56bbeee54b90cd34e94033da489f YoungRz <rizkyauacc@gmail.com> 1792060300 +0700	commit (initial): Initial commit from Create Next App
+c891f5f80f8c56bbeee54b90cd34e94033da489f efd382ade34fbf9940445250d76568e741d35a72 YoungRz <rizkyauacc@gmail.com> 1792060446 +0700	checkout: moving from master to feature-ui
+efd382ade34fbf9940445250d76568e741d35a72 0000000000000000000000000000000000000000 YoungRz <rizkyauacc@gmail.com> 1792060520 +0700	Branch: renamed refs/heads/feature-ui to refs/heads/feature-ui
+efd382ade34fbf9940445250d76568e741d35a72 efd382ade34fbf9940445250d76568e741d35a72 YoungRz <rizkyauacc@gmail.com> 1792060520 +0700	Branch: renamed refs/heads/feature-ui to refs/heads/feature-ui
+efd382ade34fbf9940445250d76568e741d35a72 99a50c79cde394147336c7f510da1ae8a3c3bd1a YoungRz <rizkyauacc@gmail.com> 1792060521 +0700	commit: init Next.js UI
+99a50c79cde394147336c7f510da1ae8a3c3bd1a 0000000000000000000000000000000000000000 YoungRz <rizkyauacc@gmail.com> 1792060541 +0700	Branch: renamed refs/heads/feature-ui to refs/heads/feature-ui
+99a50c79cde394147336c7f510da1ae8a3c3bd1a 99a50c79cde394147336c7f510da1ae8a3c3bd1a YoungRz <rizkyauacc@gmail.com> 1792060541 +0700	Branch: renamed refs/heads/feature-ui to refs/heads/feature-ui
+99a50c79cde394147336c7f510da1ae8a3c3bd1a 035df32c66ce6c719e6c96068a04fc92efd464ff YoungRz <rizkyauacc@gmail.com> 1792454441 +0700	commit: code selesai
+035df32c66ce6c719e6c96068a04fc92efd464ff 035df32c66ce6c719e6c96068a04fc92efd464ff YoungRz <rizkyauacc@gmail.com> 1792454658 +0700	checkout: moving from feature-ui to feature-ui
+035df32c66ce6c719e6c96068a04fc92efd464ff 035df32c66ce6c719e6c96068a04fc92efd464ff YoungRz <rizkyauacc@gmail.com> 1792454809 +0700	checkout: moving from feature-ui to feature-ui
+035df32c66ce6c719e6c96068a04fc92efd464ff d5ef0eae6268932af56f99d4b5ee1d9e64e108c5 YoungRz <rizkyauacc@gmail.com> 1792467199 +0700	commit: UI Next.js: rute, halte, login, register, akun, admin
